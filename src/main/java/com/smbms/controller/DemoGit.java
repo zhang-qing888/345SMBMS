@@ -10,4 +10,7 @@ public class DemoGit {
         System.out.println("FFFFFFFFFFFFF");
         System.out.println("1111111111111");
     }
+    public void testDev(){
+        System.out.println("dev1111111111111111");
+    }
 }
