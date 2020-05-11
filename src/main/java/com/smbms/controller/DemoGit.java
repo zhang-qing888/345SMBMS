@@ -15,5 +15,8 @@ public class DemoGit {
         System.out.println("dev2222222222222222");
 
     }
+    public void testFeature(){
+        System.out.println("F111111111111111111");
+    }
 
 }
